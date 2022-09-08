@@ -1,0 +1,59 @@
+.todo {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+}
+
+.todo-form {
+    padding-top: 50px;
+}
+
+.todo-form form {
+    margin: 20px;
+}
+
+.task {
+    padding: 10px;
+    width: 25%;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.button {
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #143acd;
+    outline: none;
+    border: 2px solid #143acd;
+    cursor: pointer;
+}
+
+.todo-lists>h3 {
+    margin-top: 20px;
+    color: red;
+}
+
+.todo-lists > ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+.update {
+    color: #143acd;
+    margin: 0 10px;
+}
+
+.delete {
+    color: #f00;
+    margin: 0 10px;
+}
+
+.todo-removeall > button {
+    padding: 10px 30px;
+    color: #fff;
+    background-color: red;
+    outline: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
